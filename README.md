@@ -49,7 +49,7 @@ Calculo de los resultados:
 
 ![](https://github.com/diego333jose/Laboratorio-2/blob/main/Imagenes/resolucion%20lab%201%20(%20Flores%20Arevalo)%20(2)_page-0003.jpg)
 
-Tinkercad es un navegador web el cual lo utilizamos para realizar los circuitos de la practica es un simulador donde podemos encontrar todo tipos de elementos para hacer la misma practica y permite diseñar y modelar objetos en 3D, desde elementos simples a formas más complejas. En el siguiente video se muestra como realizamos el circuito desde como armarlo hasta como sacar corrientes y voltajes e cada elemento: https://youtu.be/ZrnNOJDTil4
+Tinkercad es un navegador web el cual lo utilizamos para realizar los circuitos de la practica es un simulador donde podemos encontrar todo tipos de elementos para hacer la misma practica y permite diseñar y modelar objetos en 3D, desde elementos simples a formas más complejas. En el siguiente video se muestra como realizamos el circuito desde como armarlo hasta como sacar corrientes y voltajes e cada elemento: https://youtu.be/SccLnRUnjkU
 
 Simulador y elaboracion del circuito
 
